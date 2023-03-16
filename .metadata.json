@@ -1,0 +1,10 @@
+[
+  {
+    "package": "CBSr",
+    "oncran": true
+  },
+  {
+    "package": "TPLSr",
+    "oncran": true
+  }
+]
